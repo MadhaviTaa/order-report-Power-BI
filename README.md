@@ -55,5 +55,37 @@ The dataset includes:
 4. **Custom Measures**:  
    Create DAX measures for metrics like total sales, average order value, and growth rates.  
 
-5. **P
+5. **Publish Dashboard**:  
+   Publish your Power BI report to the Power BI Service for sharing and collaboration.  
+
+---
+
+## Results  
+
+- Gained actionable insights into order trends and customer behavior.  
+- Enabled stakeholders to make data-driven decisions through an interactive dashboard.  
+
+---
+
+## Screenshots  
+
+*(Add images of your Power BI dashboard here to showcase your work)*  
+
+---
+
+## Contribution  
+
+Contributions are welcome! Share your ideas, improvements, or additional features. Fork this repository and submit a pull request.  
+
+---
+
+## License  
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.  
+
+---
+
+## Contact  
+
+For any questions or collaboration opportunities, feel free to reach out. Let's create impactful dashboards together!  
+
 
